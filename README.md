@@ -2,4 +2,5 @@
 
 Ovdje će se nalaziti HTML/CSS, Javascript koji čini moju osobnu web stranicu.
 
-Adresa web stranice je https://github.com/ivanaplese/ivanaplese.github.io.git
+Adresa web stranice je https://ivanaplese.github.io
+
