@@ -6,3 +6,9 @@ body {
     text-align: center;
     margin-top: 5px;
 }
+
+a {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
